@@ -2,3 +2,5 @@ Tingkat 1
 IP Semester 1 = 3.05
 IP Semester 2 = 3.55
 
+Tingkat 2
+IP Semester 3 = 3.58
